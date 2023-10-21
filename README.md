@@ -56,14 +56,14 @@ ubuntu-ssh
 
 # ssh key 로 로그인
 
-    ![image](https://github.com/sangbinlee/ubuntu-ssh/assets/4024414/266170d8-5f26-4cee-bff7-db10c44d000e)
-    
-    
-    ![image](https://github.com/sangbinlee/ubuntu-ssh/assets/4024414/296aa27f-e7d9-4c97-ba5d-7e52d56e005c)
-    
-    
-    ![image](https://github.com/sangbinlee/ubuntu-ssh/assets/4024414/90228199-96ca-4aca-a7d9-5c946977deb5)
-    
+![image](https://github.com/sangbinlee/ubuntu-ssh/assets/4024414/266170d8-5f26-4cee-bff7-db10c44d000e)
+
+
+![image](https://github.com/sangbinlee/ubuntu-ssh/assets/4024414/296aa27f-e7d9-4c97-ba5d-7e52d56e005c)
+
+
+![image](https://github.com/sangbinlee/ubuntu-ssh/assets/4024414/90228199-96ca-4aca-a7d9-5c946977deb5)
+
 
 
 
