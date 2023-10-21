@@ -51,6 +51,19 @@ ubuntu-ssh
 
 
 
+# load private key
+
+![image](https://github.com/sangbinlee/ubuntu-ssh/assets/4024414/723f2d16-af9a-4756-b4ee-b1c2631ec7d7)
+
+
+
+
+# save private key : new.ppk 생성
+
+
+![image](https://github.com/sangbinlee/ubuntu-ssh/assets/4024414/e2cd5293-dca9-4f10-a357-717edc87cc48)
+
+
 
 
 
