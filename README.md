@@ -36,7 +36,7 @@ ubuntu-ssh
     
     
     
-    ![image](https://github.com/sangbinlee/ubuntu-ssh/assets/4024414/d96889df-2571-4b07-be25-b094b779cd57)
+![image](https://github.com/sangbinlee/ubuntu-ssh/assets/4024414/d96889df-2571-4b07-be25-b094b779cd57)
 
 
 
