@@ -67,7 +67,7 @@ ubuntu-ssh
 
 
 
-# ssh key 로 로그인
+# putty 에서 ssh key 파일로 로그인
 
 ![image](https://github.com/sangbinlee/ubuntu-ssh/assets/4024414/266170d8-5f26-4cee-bff7-db10c44d000e)
 
@@ -80,7 +80,13 @@ ubuntu-ssh
 
 
 
-# 
+# 파일질라에서 ssh key 파일로 접속
+![image](https://github.com/sangbinlee/ubuntu-ssh/assets/4024414/3676f59f-643b-431e-8ed8-143fb7f8af3e)
+
+![image](https://github.com/sangbinlee/ubuntu-ssh/assets/4024414/31ff3d55-886c-41d9-8f98-33c7191c1d08)
+
+
+
 
 # 
 
